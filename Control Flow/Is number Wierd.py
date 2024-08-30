@@ -1,4 +1,4 @@
-# Function to check if number is weird
+# Function to check if number is Weird
 # If number is odd its weird
 # If the number is even and in the inclusive range of 2to5, it "Not Weird"
 # If its even and in the inclusive range of 6to20, its "Weird".
